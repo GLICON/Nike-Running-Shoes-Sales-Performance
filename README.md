@@ -29,3 +29,12 @@ This project analyzes sales performance of Nike Running Shoes in select Western 
 - How did performance change from 2023 to 2024 (revenue, profit, AOV)?
 - Is there a clear seasonal pattern in sales (by month), and which months require higher preparation?
 
+## Data Cleaning and Preparation
+- No missing values detected
+- No duplicates found
+- Converted order_date to datetime format
+- Confirmed all records are for 'Nike Running Shoes' only
+
+## Data Extraction and Querying
+### State Level Summary
+
