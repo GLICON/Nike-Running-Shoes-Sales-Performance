@@ -17,10 +17,15 @@ This project leverages a real-world dataset of coffee sales from a vending machi
 - [Tools](#tools)
 
 ### Project Overview
-The goal of this project is to analyze product sales performance and trends across categories to uncover patterns, identify high-performing products, and provide actionable insights for business strategy.
+This project analyzes sales performance of Nike Running Shoes in select Western U.S. cities. The goal is to identify high-performing locations, evaluate year-over-year trends, detect seasonal patterns, and provide actionable recommendations for marketing, inventory allocation, and strategic planning.
 
 ## Project Focus
-
+- Prioritize cities for marketing and inventory investment.
+- Assess growth/decline between 2023 and 2024 in revenue, profit, and average order value (AOV).
+- Identify seasonal sales patterns to optimize stock levels and promotional timing.
 
 ## Questions
+- Which cities generate the highest revenue and profit for Nike Running Shoes, and should we prioritize them?
+- How did performance change from 2023 to 2024 (revenue, profit, AOV)?
+- Is there a clear seasonal pattern in sales (by month), and which months require higher preparation?
 
