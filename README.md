@@ -38,3 +38,29 @@ This project analyzes sales performance of Nike Running Shoes in select Western 
 ## Data Extraction and Querying
 ### State Level Summary
 
+```sql
+SELECT 
+    state,
+    COUNT(*) AS orders,
+    SUM(quantity) AS total_units,
+    SUM(revenue) AS total_revenue,
+    SUM(profit) AS total_profit,
+    SUM(revenue) / COUNT(*) AS aov
+FROM footwear_filtered
+GROUP BY state
+ORDER BY total_revenue DESC;
+```
+### Year-over-year
+
+```sql
+SELECT 
+    EXTRACT(YEAR FROM order_date) AS year,
+    COUNT(*) AS orders,
+    SUM(quantity) AS total_units,
+    ROUND(SUM(revenue)) AS total_revenue,
+    ROUND(SUM(profit)) AS total_profit,
+    ROUND(SUM(revenue) / COUNT(*)) AS aov
+FROM footwear_filtered
+GROUP BY year
+ORDER BY year;
+```
