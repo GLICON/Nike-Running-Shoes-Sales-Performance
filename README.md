@@ -1,5 +1,5 @@
 # Nike-Running-Shoes-Sales-Performance
-This project leverages a real-world dataset of coffee sales from a vending machine (covering transactions in 2024) to investigate purchasing patterns, temporal trends, and customer behaviors. The goal is to derive actionable insights for optimizing operations, such as restocking, pricing, and promotions.
+This analysis explores Nike Running Shoes transactions in Arizona, California, and Washington during 2023–2024, drawn from filtered product sales records, highlighting regional revenue patterns, annual growth trends, seasonal rhythms, and the ideal pricing-profit equilibrium.
 
 ## Table of Contents
 
@@ -16,19 +16,21 @@ This project leverages a real-world dataset of coffee sales from a vending machi
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 
-### Project Overview
-This project analyzes sales performance of Nike Running Shoes in select Western U.S. cities. The goal is to identify high-performing locations, evaluate year-over-year trends, detect seasonal patterns, and provide actionable recommendations for marketing, inventory allocation, and strategic planning.
+## Project Overview
+This project examines Nike Running Shoes sales performance across Arizona, California, and Washington from 2023 to 2024 using cleaned, order-level transaction data. The analysis directly addresses three key stakeholder questions: geographic concentration of revenue and profit, year-over-year growth trends, and the optimal price–volume–profit balance. It provides clear, actionable insights to support better decisions in inventory allocation, regional marketing focus, pricing strategy, and seasonal planning in the athletic footwear retail sector.
 
 ## Project Focus
-- Prioritize cities for marketing and inventory investment.
-- Assess growth/decline between 2023 and 2024 in revenue, profit, and average order value (AOV).
-- Identify seasonal sales patterns to optimize stock levels and promotional timing.
+- Geographic concentration of revenue and profit across states and key cities
+- Year-over-year performance trends and seasonal patterns
+- Price elasticity, volume behavior, and profit optimization by unit-price segment
 
-## Questions
-- Which cities generate the highest revenue and profit for Nike Running Shoes, and should we prioritize them?
-- How did performance change from 2023 to 2024 (revenue, profit, AOV)?
-- Is there a clear seasonal pattern in sales (by month), and which months require higher preparation?
-
+### Questions
+- Which of the three Western states (Arizona, California, Washington) and their top-performing cities contribute the most to Nike Running Shoes revenue and profit, and how should we prioritize regional inventory allocation and localized marketing spend for 2025–2026?
+  
+- What was the actual year-over-year growth (or decline) in units sold, revenue, and profit for Nike Running Shoes across Arizona, California, and Washington from 2023 to 2024, and which months or price segments explain most of the change?
+  
+- Within the observed price range of Nike Running Shoes sales in these three states, where is the optimal price–volume–profit balance located, and are we capturing maximum margin dollars by appropriately emphasizing (or de-emphasizing) certain unit-price tiers?
+  
 ## Data Cleaning and Preparation
 - No missing values detected
 - No duplicates found
