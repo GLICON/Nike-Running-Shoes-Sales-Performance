@@ -132,7 +132,6 @@ Lowest tier (< $100) has the most orders (120) and units (236) but contributes j
 
 
 <img width="1600" height="700" alt="price-tier" src="https://github.com/user-attachments/assets/60e9a818-5cee-4d79-93ab-b63cd51f9cf0" />
-
 <img width="1000" height="500" alt="Gross-margin_percentage" src="https://github.com/user-attachments/assets/4a34c23e-eb0a-482d-9836-4c9c89c36867" />
 
 ## Recommendations for Maximum Profit in 2025 - 2026
