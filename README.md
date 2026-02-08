@@ -142,19 +142,13 @@ Lowest tier (< $100) has the most orders (120) and units (236) but contributes j
 
 ## Recommendations for Maximum Profit in 2025 - 2026
 
-- **Accelerate investment in Washington State**: Washington delivered the strongest performance momentum in 2024 (+31% units, +51% profit YoY). We recommend meaningfully increasing inventory allocation and localized marketing support — targeting 20–25% of total Western-region resources (up from ~17% current profit contribution), with particular focus on Seattle and Spokane.
+- **Accelerate investment in Washington State**: Washington delivered the strongest performance momentum in 2024 (+31% units, +51% profit YoY). Meaningfully increasing inventory allocation and localized marketing support — targeting 20–25% of total Western-region resources (up from ~17% current profit contribution), with particular focus on Seattle and Spokane will help increase profit in the coming years.
 
-- **Maintain Arizona as the anchor market**: Arizona remains our largest absolute profit contributor. We should protect core city performance (Phoenix, Glendale, Chandler, Tucson, Mesa) and hold ~40–42% of regional inventory & marketing allocation.
+- **Maintain Arizona as the anchor market**: Arizona remains our largest absolute profit contributor. Core city performance (Phoenix, Glendale, Chandler, Tucson, Mesa) need tp be protected whilst considering ~40–42% of regional inventory & marketing allocation.
 
-- **Stabilize California**: prevent further share erosion. California showed similar softness to Arizona in 2024. We recommend defending key markets (San Diego, Sacramento, Los Angeles, San Jose) at ~38–40% allocation while closely monitoring competitive dynamics.
-
+- **Stabilize California**: Stabilisation needs to be done to prevent further share erosion as California showed similar softness to Arizona in 2024. This can be ensured by defending key markets (San Diego, Sacramento, Los Angeles, San Jose) at ~38–40% allocation while closely monitoring competitive dynamics.
 
 - **Position Washington as the primary growth engine**: Double-down on regional activation tactics (community running events, university/outdoor partnerships, targeted local influencers) to protect and extend 2024 momentum.
-
-- **Maintain Arizona as the anchor market**:Arizona remains our largest absolute profit contributor. We should protect core city performance (Phoenix, Glendale, Chandler, Tucson, Mesa) and hold ~40–42% of regional inventory & marketing allocation.
-
-- **Stabilize California**: prevent further share erosion
-California showed similar softness to Arizona in 2024. We recommend defending key markets (San Diego, Sacramento, Los Angeles, San Jose) at ~38–40% allocation while closely monitoring competitive dynamics.
 
 - **Emphasize mid-premium positioning** — Prioritize marketing spend, in-store visibility, online featured placements, and inventory allocation toward $250–400 items (especially $350–400 zone) to capture maximum profit dollars.
 
