@@ -8,9 +8,8 @@ This analysis explores Nike Running Shoes transactions in Arizona, California, a
 - [Questions](#questions)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Querying and Aggregation](#data-querying-and-aggregation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results and Findings](#results-and-findings)
-- [Recomendations](#recommendations)
+- [Recommendations for Maximum Profit in 2025 - 2026](#recommendations-for-Maximum-Profit-in-2025-2026)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 
@@ -98,10 +97,6 @@ FROM yearly
 ORDER BY state, sales_year;
 ```
 
-## Exploratory Data Analysis
- 
-
-
 ## Results and Findings
 ### Year-over-Year Growth Trends and Seasonal Patterns
 
@@ -155,6 +150,9 @@ Lowest tier (< $100) has the most orders (120) and units (236) but contributes j
 - **Regional nuance** — In declining markets (Arizona/California), test whether shifting emphasis toward $250–350 helps stabilize volume without sacrificing too much margin. In high-growth Washington, lean harder into $350+ tiers where demand appears strongest.
 
 - **Minimize reliance on deep discounts** — Avoid aggressive promotions below $150 except for targeted use cases (customer acquisition, seasonal clearance, entry-level bundles). Margin compression here is not offset by enough incremental volume.
+
+## Data Sources
+This dataset was filtered from a dataset that contains 200,000 synthetic sales records simulating real-world product transactions across different U.S. regions. It provides detailed transactional data including customer names, product categories, pricing, and revenue details. Data was gotten from Kaggle.
 
 ## Tools
 - Excel (Data Cleaning)
