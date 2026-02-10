@@ -115,7 +115,6 @@ ORDER BY state, sales_year;
 
 
 <img width="494" height="400" alt="Screenshot 2026-02-04 at 22 42 05" src="https://github.com/user-attachments/assets/0ba89dc0-ebf9-4754-bd50-61434b589978" />
-
 <img width="493" height="398" alt="Screenshot 2026-02-04 at 22 37 56" src="https://github.com/user-attachments/assets/0038ed58-1eb1-47e7-ba16-71c1df4bef9d" />
 
 ### Price-Tier Analysis
