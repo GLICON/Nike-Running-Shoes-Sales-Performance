@@ -119,27 +119,26 @@ ORDER BY state, sales_year;
 
 ### Price-Tier Analysis
 
-**Top profit contributors** — The $350–400 and $400+ segments together generate ~40.6% of all profit dollars — despite only ~24% of orders. These premium tiers drive the majority of margin dollars.
+**Top profit contributors** — The $350–400 and $400+ segments together generate roughly 40.6% of all profit dollars, despite only ~24% of orders. These premium tiers drive the majority of margin dollars.
 
-**Profit per unit rises steadily with price** — peaking at $141.04 in the $400+ band. No sharp drop-off is visible, indicating customers in these states accept (and purchase) higher-priced running shoes without strong negative elasticity in this sample.
+**Profit per unit rises steadily with price** — There's peaking at $141.04 in the $400+ band and no sharp drop-off is visible, indicating customers in these states accept (and purchase) higher-priced running shoes without strong negative elasticity in this sample.
 
-**Gross margins are remarkably stable** — ranging 31.4%–33.6% across all bins, with only a minor dip in the $300–350 range. This suggests consistent cost structures and limited promotional pressure distorting margins.
+**Gross margins are remarkably stable** — There's ranging 31.4%–33.6% across all bins, with only a minor dip in the $300–350 range. This suggests consistent cost structures and limited promotional pressure distorting margins.
 
 Lowest tier (< $100) has the most orders (120) and units (236) but contributes just 4% of profit — the lowest profit/unit ($19). Deep discounting here erodes value without proportional volume upside.
 
-**Sweet spot** — $250–400 range offers the best balance: ~50.7% of total profit with solid volume (good number of units), high profit/unit ($89–$125) and healthy, stable margins (~32–33%)
+**Sweet spot** — $250–400 range offers the best balance: 50.7% of total profit with solid volume (good number of units), high profit/unit ($89–$125) and healthy, stable margins (~32–33%)
 
 
 <img width="1600" height="700" alt="price-tier" src="https://github.com/user-attachments/assets/60e9a818-5cee-4d79-93ab-b63cd51f9cf0" />
 <img width="1000" height="500" alt="Gross-margin_percentage" src="https://github.com/user-attachments/assets/4a34c23e-eb0a-482d-9836-4c9c89c36867" />
 
 ## Recommendations for Maximum Profit in 2025 - 2026
+- **Accelerate investment in Washington State**: Washington delivered the strongest performance momentum in 2024 (+31% units, +51% profit YoY, meaningfully increasing inventory allocation and localized marketing support. This targets 20–25% of total Western-region resources (up from ~17% current profit contribution), with particular focus on Seattle and Spokane increasing profit in the coming years.
 
-- **Accelerate investment in Washington State**: Washington delivered the strongest performance momentum in 2024 (+31% units, +51% profit YoY). Meaningfully increasing inventory allocation and localized marketing support — targeting 20–25% of total Western-region resources (up from ~17% current profit contribution), with particular focus on Seattle and Spokane will help increase profit in the coming years.
+- **Maintain Arizona as the anchor market**: Arizona remains our largest absolute profit contributor and must be maintained. Core city performance (Phoenix, Glendale, Chandler, Tucson, Mesa) need to be protected whilst considering about 40–42% of regional inventory & marketing allocation.
 
-- **Maintain Arizona as the anchor market**: Arizona remains our largest absolute profit contributor. Core city performance (Phoenix, Glendale, Chandler, Tucson, Mesa) need tp be protected whilst considering ~40–42% of regional inventory & marketing allocation.
-
-- **Stabilize California**: Stabilisation needs to be done to prevent further share erosion as California showed similar softness to Arizona in 2024. This can be ensured by defending key markets (San Diego, Sacramento, Los Angeles, San Jose) at ~38–40% allocation while closely monitoring competitive dynamics.
+- **Stabilize California**: Stabilisation needs to be done to prevent further share erosion as California showed similar softness to Arizona in 2024. This can be ensured by defending key markets (San Diego, Sacramento, Los Angeles, San Jose) at about 38–40% allocation while closely monitoring competitive dynamics.
 
 - **Position Washington as the primary growth engine**: Double-down on regional activation tactics (community running events, university/outdoor partnerships, targeted local influencers) to protect and extend 2024 momentum.
 
