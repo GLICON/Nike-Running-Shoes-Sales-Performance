@@ -31,7 +31,7 @@ This project examines Nike Running Shoes sales performance across Arizona, Calif
 ## Data Cleaning and Preparation
 - No missing values detected
 - No duplicates found
-- Converted order_date to datetime format
+- Converted order_date to datetime format (from US to UK style)
 - Confirmed all records are for 'Nike Running Shoes' only
 
 ## Data Querying and Aggregation
